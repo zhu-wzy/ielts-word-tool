@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://zhu-wzy.github.io/ielts-word-tool/sitemap.xml
